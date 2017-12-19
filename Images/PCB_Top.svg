@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="207"
+   height="190"
+   viewBox="4000 3000 207 190"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="PCB_Top.svg">
+  <metadata
+     id="metadata414">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>KrystaLED PCB Top</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs412" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1178"
+     id="namedview410"
+     showgrid="false"
+     inkscape:zoom="3.5132042"
+     inkscape:cx="123.07161"
+     inkscape:cy="112.32973"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">KrystaLED PCB Top</title>
+  <style
+     type="text/css"
+     id="style6">
+path, polyline, polygon {stroke-linejoin:round;}
+path, polyline, polygon, line {stroke-linecap:round;}
+rect, circle, ellipse, polyline, polygon, line, path {shape-rendering:crispEdges;}
+*[layerid=&quot;0&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;1&quot;] {stroke:#00BE00; fill:#00BE00;}*[layerid=&quot;2&quot;] {stroke:#00BE00; fill:#00BE00;}*[layerid=&quot;3&quot;] {stroke:#FFFFFF; fill:#FFFFFF;}*[layerid=&quot;4&quot;] {stroke:#FFFFFF; fill:#FFFFFF;}*[layerid=&quot;5&quot;] {stroke:#808080; fill:#808080;}*[layerid=&quot;6&quot;] {stroke:#800000; fill:#800000;}*[layerid=&quot;7&quot;] {stroke:#DCAA14; fill:#DCAA14;}*[layerid=&quot;8&quot;] {stroke:#DCAA14; fill:#DCAA14;}*[layerid=&quot;9&quot;] {display:none}*[layerid=&quot;10&quot;] {stroke:#0B3B0B; fill:#0B3B0B;}*[layerid=&quot;11&quot;] {stroke:#C0C0C0; fill:#C0C0C0;}*[layerid=&quot;12&quot;] {stroke:#FFFFFF; fill:#FFFFFF;}*[layerid=&quot;13&quot;] {stroke:#33CC99; fill:#33CC99;}*[layerid=&quot;14&quot;] {stroke:#5555FF; fill:#5555FF;}*[layerid=&quot;15&quot;] {stroke:#F022F0; fill:#F022F0;}*[layerid=&quot;16&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;17&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;18&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;19&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;20&quot;] {stroke:#FFFFFF; FILL:#FFFFFF;}*[layerid=&quot;21&quot;] {stroke:#800000; fill:#800000;}*[layerid=&quot;22&quot;] {stroke:#008000; fill:#008000;}*[layerid=&quot;23&quot;] {stroke:#00FF00; fill:#00FF00;}*[layerid=&quot;24&quot;] {stroke:#000080; fill:#000080;}*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+g[c_partid=&quot;part_pad&quot;] &gt; * + circle {fill: #111111;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill: #111111;}
+g[c_partid=&quot;part_pad&quot;] &gt; polyline:nth-child(2) {stroke: #111111;}</style>
+  <g
+     style="pointer-events: none;"
+     id="g10">
+    <path
+       d="M4050,3140 4050,3050 4157,3050 4157,3140z"
+       layerid="10"
+       id="path12" />
+    <polyline
+       points="4127 3102 4133 3102"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline14" />
+    <polyline
+       points="4092 3056 4092 3061 4091 3062 4087 3062 4084 3065 4084 3078.3 4084.5 3078.8"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline16" />
+    <polyline
+       points="4066.8 3115.01 4068.26 3115.01"
+       stroke-width="0.8"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline18" />
+    <polyline
+       points="4066.48 3115.01 4066.8 3115.01"
+       stroke-width="0.8"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline20" />
+    <polyline
+       points="4131 3072.4 4131 3065"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline22" />
+    <polyline
+       points="4074 3065 4074 3078.3 4074.5 3078.8"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline24" />
+    <polyline
+       points="4117 3093 4110.7 3093"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline26" />
+    <polyline
+       points="4097 3093 4103.3 3093"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline28" />
+    <polyline
+       points="4110.7 3077 4110.7 3081.3 4106 3086"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline30" />
+    <polyline
+       points="4074.5 3105.3 4074.5 3112.2 4077.3 3115"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline32" />
+    <polyline
+       points="4074 3065 4070 3065 4060 3075 4060 3088.3"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline34" />
+    <polyline
+       points="4070 3106 4073.8 3106 4074.5 3105.3"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline36" />
+    <polyline
+       points="4077.3 3115 4067.7 3115"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline38" />
+    <polyline
+       points="4070 3062 4070 3057 4072 3056"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline40" />
+    <polyline
+       points="4082 3056 4082 3062 4080 3064 4080 3078.3 4079.5 3078.8"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline42" />
+    <polyline
+       points="4102 3056 4102 3062 4102 3062 4100 3064 4094 3064 4090 3068 4090 3078.3 4089.5 3078.8"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline44" />
+    <polyline
+       points="4122 3056 4128 3056 4131 3058 4131 3065"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline46" />
+    <polyline
+       points="4103.3 3077 4099 3077 4095 3081 4095 3087 4095 3088 4092 3091 4089 3091 4085 3095 4084.5 3105.3 4084.5 3105.3"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline48" />
+    <polyline
+       points="4090 3115 4084.7 3115"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline50" />
+    <polyline
+       points="4090 3115 4090 3105.8 4089.5 3105.3"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline52" />
+    <polyline
+       points="4079.5 3105.3 4079.5 3093.5 4079 3093"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline54" />
+    <polyline
+       points="4060.3 3115 4060.3 3111.7 4066 3106 4066 3069"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline56" />
+    <polyline
+       points="4054 3095 4059.3 3095 4060 3095.7"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline58" />
+    <polyline
+       points="4124.003 3132.002 4124 3123 4128 3119 4149 3119 4153 3115 4153 3082 4149 3078 4149 3072.4"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline60" />
+    <polyline
+       points="4133 3102 4138 3102"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline62" />
+    <polyline
+       points="4138 3102 4139.6 3102 4140 3101.6"
+       stroke-width="1.2"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="1"
+       id="polyline64" />
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4131,3065"
+       layerid="1"
+       id="g66">
+      <circle
+         cx="4131"
+         cy="3065"
+         r="1.22"
+         stroke-width="0"
+         id="circle68" />
+      <circle
+         cx="4131"
+         cy="3065"
+         r="0.6"
+         stroke-width="0"
+         id="circle70" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4074,3065"
+       layerid="1"
+       id="g72">
+      <circle
+         cx="4074"
+         cy="3065"
+         r="1.22"
+         stroke-width="0"
+         id="circle74" />
+      <circle
+         cx="4074"
+         cy="3065"
+         r="0.6"
+         stroke-width="0"
+         id="circle76" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4117,3093"
+       layerid="1"
+       id="g78">
+      <circle
+         cx="4117"
+         cy="3093"
+         r="1.22"
+         stroke-width="0"
+         id="circle80" />
+      <circle
+         cx="4117"
+         cy="3093"
+         r="0.6"
+         stroke-width="0"
+         id="circle82" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4097,3093"
+       layerid="1"
+       id="g84">
+      <circle
+         cx="4097"
+         cy="3093"
+         r="1.22"
+         stroke-width="0"
+         id="circle86" />
+      <circle
+         cx="4097"
+         cy="3093"
+         r="0.6"
+         stroke-width="0"
+         id="circle88" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4106,3086"
+       layerid="1"
+       id="g90">
+      <circle
+         cx="4106"
+         cy="3086"
+         r="1.22"
+         stroke-width="0"
+         id="circle92" />
+      <circle
+         cx="4106"
+         cy="3086"
+         r="0.6"
+         stroke-width="0"
+         id="circle94" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4070,3106"
+       layerid="1"
+       id="g96">
+      <circle
+         cx="4070"
+         cy="3106"
+         r="1.22"
+         stroke-width="0"
+         id="circle98" />
+      <circle
+         cx="4070"
+         cy="3106"
+         r="0.6"
+         stroke-width="0"
+         id="circle100" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4070,3062"
+       layerid="1"
+       id="g102">
+      <circle
+         cx="4070"
+         cy="3062"
+         r="1.22"
+         stroke-width="0"
+         id="circle104" />
+      <circle
+         cx="4070"
+         cy="3062"
+         r="0.6"
+         stroke-width="0"
+         id="circle106" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4090,3115"
+       layerid="1"
+       id="g108">
+      <circle
+         cx="4090"
+         cy="3115"
+         r="1.22"
+         stroke-width="0"
+         id="circle110" />
+      <circle
+         cx="4090"
+         cy="3115"
+         r="0.6"
+         stroke-width="0"
+         id="circle112" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4079,3093"
+       layerid="1"
+       id="g114">
+      <circle
+         cx="4079"
+         cy="3093"
+         r="1.22"
+         stroke-width="0"
+         id="circle116" />
+      <circle
+         cx="4079"
+         cy="3093"
+         r="0.6"
+         stroke-width="0"
+         id="circle118" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4054,3095"
+       layerid="1"
+       id="g120">
+      <circle
+         cx="4054"
+         cy="3095"
+         r="1.22"
+         stroke-width="0"
+         id="circle122" />
+      <circle
+         cx="4054"
+         cy="3095"
+         r="0.6"
+         stroke-width="0"
+         id="circle124" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4127,3102"
+       layerid="1"
+       id="g126">
+      <circle
+         cx="4127"
+         cy="3102"
+         r="1.22"
+         stroke-width="0"
+         id="circle128" />
+      <circle
+         cx="4127"
+         cy="3102"
+         r="0.6"
+         stroke-width="0"
+         id="circle130" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4060,3130"
+       layerid="1"
+       id="g132">
+      <circle
+         cx="4060"
+         cy="3130"
+         r="4"
+         stroke-width="0"
+         id="circle134" />
+      <circle
+         cx="4060"
+         cy="3130"
+         r="4"
+         stroke-width="0"
+         id="circle136" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4147,3060"
+       layerid="1"
+       id="g138">
+      <circle
+         cx="4147"
+         cy="3060"
+         r="4"
+         stroke-width="0"
+         id="circle140" />
+      <circle
+         cx="4147"
+         cy="3060"
+         r="4"
+         stroke-width="0"
+         id="circle142" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4060,3060"
+       layerid="1"
+       id="g144">
+      <circle
+         cx="4060"
+         cy="3060"
+         r="4"
+         stroke-width="0"
+         id="circle146" />
+      <circle
+         cx="4060"
+         cy="3060"
+         r="4"
+         stroke-width="0"
+         id="circle148" />
+    </g>
+    <g
+       c_partid="part_via"
+       c_etype="pinpart"
+       c_shapetype="group"
+       c_origin="4147,3130"
+       layerid="1"
+       id="g150">
+      <circle
+         cx="4147"
+         cy="3130"
+         r="4"
+         stroke-width="0"
+         id="circle152" />
+      <circle
+         cx="4147"
+         cy="3130"
+         r="4"
+         stroke-width="0"
+         id="circle154" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4112,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g156">
+      <polygon
+         points="4108.063 3052.063 4115.937 3052.063 4115.937 3059.937 4108.063 3059.937"
+         stroke-width="0"
+         id="polygon158" />
+      <circle
+         cx="4112"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle160" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4102,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g162">
+      <polygon
+         points="4098.063 3052.063 4105.937 3052.063 4105.937 3059.937 4098.063 3059.937"
+         stroke-width="0"
+         id="polygon164" />
+      <circle
+         cx="4102"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle166" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4122,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g168">
+      <polygon
+         points="4118.063 3052.063 4125.937 3052.063 4125.937 3059.937 4118.063 3059.937"
+         stroke-width="0"
+         id="polygon170" />
+      <circle
+         cx="4122"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle172" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4072,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g174">
+      <polygon
+         points="4068.063 3052.063 4075.937 3052.063 4075.937 3059.937 4068.063 3059.937"
+         stroke-width="0"
+         id="polygon176" />
+      <circle
+         cx="4072"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle178" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4124.003,3132.002"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="11.811"
+       c_height="11.811"
+       c_shape="RECT"
+       id="g180">
+      <polygon
+         points="4118.095 3126.095 4129.91 3126.095 4129.91 3137.91 4118.095 3137.91"
+         stroke-width="0"
+         id="polygon182" />
+      <circle
+         cx="4124.003"
+         cy="3132.002"
+         r="1.9685"
+         stroke-width="0"
+         id="circle184" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4092,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g186">
+      <polygon
+         points="4088.063 3052.063 4095.937 3052.063 4095.937 3059.937 4088.063 3059.937"
+         stroke-width="0"
+         id="polygon188" />
+      <circle
+         cx="4092"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle190" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4082,3056"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="7.874"
+       c_height="7.874"
+       c_shape="RECT"
+       id="g192">
+      <polygon
+         points="4078.063 3052.063 4085.937 3052.063 4085.937 3059.937 4078.063 3059.937"
+         stroke-width="0"
+         id="polygon194" />
+      <circle
+         cx="4082"
+         cy="3056"
+         r="1.77165"
+         stroke-width="0"
+         id="circle196" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4108.003,3132.002"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="11.811"
+       c_height="11.811"
+       c_shape="RECT"
+       id="g198">
+      <polygon
+         points="4102.095 3126.095 4113.91 3126.095 4113.91 3137.91 4102.095 3137.91"
+         stroke-width="0"
+         id="polygon200" />
+      <circle
+         cx="4108.003"
+         cy="3132.002"
+         r="1.9685"
+         stroke-width="0"
+         id="circle202" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4074.5,3105.3"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g204">
+      <polygon
+         points="4073.3 3100.95 4075.7 3100.95 4075.7 3109.65 4073.3 3109.65"
+         stroke-width="0"
+         id="polygon206" />
+      <circle
+         cx="4074.5"
+         cy="3105.3"
+         r="0.001"
+         stroke-width="0"
+         id="circle208" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4079.5,3105.3"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g210">
+      <polygon
+         points="4078.3 3100.95 4080.7 3100.95 4080.7 3109.65 4078.3 3109.65"
+         stroke-width="0"
+         id="polygon212" />
+      <circle
+         cx="4079.5"
+         cy="3105.3"
+         r="0.001"
+         stroke-width="0"
+         id="circle214" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4084.5,3105.3"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g216">
+      <polygon
+         points="4083.3 3100.95 4085.7 3100.95 4085.7 3109.65 4083.3 3109.65"
+         stroke-width="0"
+         id="polygon218" />
+      <circle
+         cx="4084.5"
+         cy="3105.3"
+         r="0.001"
+         stroke-width="0"
+         id="circle220" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4089.5,3105.3"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g222">
+      <polygon
+         points="4088.3 3100.95 4090.7 3100.95 4090.7 3109.65 4088.3 3109.65"
+         stroke-width="0"
+         id="polygon224" />
+      <circle
+         cx="4089.5"
+         cy="3105.3"
+         r="0.001"
+         stroke-width="0"
+         id="circle226" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4089.5,3078.8"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g228">
+      <polygon
+         points="4088.3 3074.45 4090.7 3074.45 4090.7 3083.15 4088.3 3083.15"
+         stroke-width="0"
+         id="polygon230" />
+      <circle
+         cx="4089.5"
+         cy="3078.8"
+         r="0.001"
+         stroke-width="0"
+         id="circle232" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4084.5,3078.8"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g234">
+      <polygon
+         points="4083.3 3074.45 4085.7 3074.45 4085.7 3083.15 4083.3 3083.15"
+         stroke-width="0"
+         id="polygon236" />
+      <circle
+         cx="4084.5"
+         cy="3078.8"
+         r="0.001"
+         stroke-width="0"
+         id="circle238" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4079.5,3078.8"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g240">
+      <polygon
+         points="4078.3 3074.45 4080.7 3074.45 4080.7 3083.15 4078.3 3083.15"
+         stroke-width="0"
+         id="polygon242" />
+      <circle
+         cx="4079.5"
+         cy="3078.8"
+         r="0.001"
+         stroke-width="0"
+         id="circle244" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4074.5,3078.8"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="2.4"
+       c_height="8.7"
+       c_shape="RECT"
+       id="g246">
+      <polygon
+         points="4073.3 3074.45 4075.7 3074.45 4075.7 3083.15 4073.3 3083.15"
+         stroke-width="0"
+         id="polygon248" />
+      <circle
+         cx="4074.5"
+         cy="3078.8"
+         r="0.001"
+         stroke-width="0"
+         id="circle250" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4060.3,3115"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g252">
+      <polygon
+         points="4057.74 3112.045 4062.86 3112.045 4062.86 3117.955 4057.74 3117.955"
+         stroke-width="0"
+         id="polygon254" />
+      <circle
+         cx="4060.3"
+         cy="3115"
+         r="0.001"
+         stroke-width="0"
+         id="circle256" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4067.7,3115"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g258">
+      <polygon
+         points="4065.14 3112.045 4070.26 3112.045 4070.26 3117.955 4065.14 3117.955"
+         stroke-width="0"
+         id="polygon260" />
+      <circle
+         cx="4067.7"
+         cy="3115"
+         r="0.001"
+         stroke-width="0"
+         id="circle262" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4110.7,3093"
+       layerid="7"
+       plated="Y"
+       c_rotation="180"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g264">
+      <polygon
+         points="4113.26 3095.955 4108.14 3095.955 4108.14 3090.045 4113.26 3090.045"
+         stroke-width="0"
+         id="polygon266" />
+      <circle
+         cx="4110.7"
+         cy="3093"
+         r="0.001"
+         stroke-width="0"
+         id="circle268" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4103.3,3093"
+       layerid="7"
+       plated="Y"
+       c_rotation="180"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g270">
+      <polygon
+         points="4105.86 3095.955 4100.74 3095.955 4100.74 3090.045 4105.86 3090.045"
+         stroke-width="0"
+         id="polygon272" />
+      <circle
+         cx="4103.3"
+         cy="3093"
+         r="0.001"
+         stroke-width="0"
+         id="circle274" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4060,3088.3"
+       layerid="7"
+       plated="Y"
+       c_rotation="270"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g276">
+      <polygon
+         points="4062.955 3085.74 4062.955 3090.86 4057.045 3090.86 4057.045 3085.74"
+         stroke-width="0"
+         id="polygon278" />
+      <circle
+         cx="4060"
+         cy="3088.3"
+         r="0.001"
+         stroke-width="0"
+         id="circle280" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4060,3095.7"
+       layerid="7"
+       plated="Y"
+       c_rotation="270"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g282">
+      <polygon
+         points="4062.955 3093.14 4062.955 3098.26 4057.045 3098.26 4057.045 3093.14"
+         stroke-width="0"
+         id="polygon284" />
+      <circle
+         cx="4060"
+         cy="3095.7"
+         r="0.001"
+         stroke-width="0"
+         id="circle286" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4103.3,3077"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g288">
+      <polygon
+         points="4100.74 3074.045 4105.86 3074.045 4105.86 3079.955 4100.74 3079.955"
+         stroke-width="0"
+         id="polygon290" />
+      <circle
+         cx="4103.3"
+         cy="3077"
+         r="0.001"
+         stroke-width="0"
+         id="circle292" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4110.7,3077"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g294">
+      <polygon
+         points="4108.14 3074.045 4113.26 3074.045 4113.26 3079.955 4108.14 3079.955"
+         stroke-width="0"
+         id="polygon296" />
+      <circle
+         cx="4110.7"
+         cy="3077"
+         r="0.001"
+         stroke-width="0"
+         id="circle298" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4077.3,3115"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g300">
+      <polygon
+         points="4074.74 3112.045 4079.86 3112.045 4079.86 3117.955 4074.74 3117.955"
+         stroke-width="0"
+         id="polygon302" />
+      <circle
+         cx="4077.3"
+         cy="3115"
+         r="0.001"
+         stroke-width="0"
+         id="circle304" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4084.7,3115"
+       layerid="7"
+       plated="Y"
+       c_rotation="0"
+       c_width="5.12"
+       c_height="5.91"
+       c_shape="RECT"
+       id="g306">
+      <polygon
+         points="4082.14 3112.045 4087.26 3112.045 4087.26 3117.955 4082.14 3117.955"
+         stroke-width="0"
+         id="polygon308" />
+      <circle
+         cx="4084.7"
+         cy="3115"
+         r="0.001"
+         stroke-width="0"
+         id="circle310" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4149,3072.4"
+       layerid="7"
+       plated="Y"
+       c_rotation="180"
+       c_width="3.95"
+       c_height="6.35"
+       c_shape="RECT"
+       id="g312">
+      <polygon
+         points="4150.975 3075.575 4147.025 3075.575 4147.025 3069.225 4150.975 3069.225"
+         stroke-width="0"
+         id="polygon314" />
+      <circle
+         cx="4149"
+         cy="3072.4"
+         r="0.001"
+         stroke-width="0"
+         id="circle316" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4131,3072.4"
+       layerid="7"
+       plated="Y"
+       c_rotation="180"
+       c_width="3.95"
+       c_height="6.35"
+       c_shape="RECT"
+       id="g318">
+      <polygon
+         points="4132.975 3075.575 4129.025 3075.575 4129.025 3069.225 4132.975 3069.225"
+         stroke-width="0"
+         id="polygon320" />
+      <circle
+         cx="4131"
+         cy="3072.4"
+         r="0.001"
+         stroke-width="0"
+         id="circle322" />
+    </g>
+    <g
+       c_partid="part_pad"
+       c_etype="pinpart"
+       c_origin="4140,3101.6"
+       layerid="7"
+       plated="Y"
+       c_rotation="180"
+       c_width="21.75"
+       c_height="22.45"
+       c_shape="RECT"
+       id="g324">
+      <polygon
+         points="4150.875 3112.825 4129.125 3112.825 4129.125 3090.375 4150.875 3090.375"
+         stroke-width="0"
+         id="polygon326" />
+      <circle
+         cx="4140"
+         cy="3101.6"
+         r="0.001"
+         stroke-width="0"
+         id="circle328" />
+    </g>
+    <polyline
+       points="4091.3 3102.1 4091.3 3082"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       id="polyline330" />
+    <polyline
+       points="4072.7 3082 4072.7 3102.1"
+       stroke-width="1"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       id="polyline332" />
+    <polyline
+       points="4127.85 3069.68 4127.85 3112.39"
+       stroke-width="0.79"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       id="polyline334" />
+    <polyline
+       points="4152.15 3069.68 4152.15 3112.39"
+       stroke-width="0.79"
+       c_shapetype="line"
+       stroke-linecap="round"
+       fill="none"
+       layerid="3"
+       id="polyline336" />
+    <path
+       d="M 4148.51 3077.75 A 0.49 0.49 0 1 0 4148.51 3077.74"
+       c_shapetype="line"
+       fill="none"
+       stroke-width="0.98"
+       c_helper_type="arc2"
+       layerid="3"
+       id="path338" />
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4067,3133.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g340">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="KrystaLED"
+         d="M 4067.0001 3131 L 4067.0001 3135.29 M 4069.8601 3131 L 4067.0001 3133.86 M 4068.0201 3132.84 L 4069.8601 3135.29 M 4071.2101 3132.43 L 4071.2101 3135.29 M 4071.2101 3133.65 L 4071.4201 3133.04 L 4071.8301 3132.63 L 4072.2401 3132.43 L 4072.8501 3132.43 M 4074.4001 3132.43 L 4075.6301 3135.29 M 4076.8601 3132.43 L 4075.6301 3135.29 L 4075.2201 3136.11 L 4074.8101 3136.52 L 4074.4001 3136.72 L 4074.2001 3136.72 M 4080.4601 3133.04 L 4080.2501 3132.63 L 4079.6401 3132.43 L 4079.0301 3132.43 L 4078.4101 3132.63 L 4078.2101 3133.04 L 4078.4101 3133.45 L 4078.8201 3133.65 L 4079.8501 3133.86 L 4080.2501 3134.06 L 4080.4601 3134.47 L 4080.4601 3134.68 L 4080.2501 3135.09 L 4079.6401 3135.29 L 4079.0301 3135.29 L 4078.4101 3135.09 L 4078.2101 3134.68 M 4082.4201 3131 L 4082.4201 3134.47 L 4082.6301 3135.09 L 4083.0401 3135.29 L 4083.4501 3135.29 M 4081.8101 3132.43 L 4083.2401 3132.43 M 4087.2501 3132.43 L 4087.2501 3135.29 M 4087.2501 3133.04 L 4086.8401 3132.63 L 4086.4301 3132.43 L 4085.8201 3132.43 L 4085.4101 3132.63 L 4085.0001 3133.04 L 4084.8001 3133.65 L 4084.8001 3134.06 L 4085.0001 3134.68 L 4085.4101 3135.09 L 4085.8201 3135.29 L 4086.4301 3135.29 L 4086.8401 3135.09 L 4087.2501 3134.68 M 4088.6001 3131 L 4088.6001 3135.29 M 4088.6001 3135.29 L 4091.0501 3135.29 M 4092.4001 3131 L 4092.4001 3135.29 M 4092.4001 3131 L 4095.0601 3131 M 4092.4001 3133.04 L 4094.0401 3133.04 M 4092.4001 3135.29 L 4095.0601 3135.29 M 4096.4101 3131 L 4096.4101 3135.29 M 4096.4101 3131 L 4097.8501 3131 L 4098.4601 3131.2 L 4098.8701 3131.61 L 4099.0701 3132.02 L 4099.2801 3132.63 L 4099.2801 3133.65 L 4099.0701 3134.27 L 4098.8701 3134.68 L 4098.4601 3135.09 L 4097.8501 3135.29 L 4096.4101 3135.29"
+         fill="none"
+         stroke-width="0.8"
+         id="path342" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4108,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g344">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="GN"
+         d="M 4111.07 3063.02 L 4110.86 3062.61 L 4110.45 3062.2 L 4110.05 3062 L 4109.23 3062 L 4108.82 3062.2 L 4108.41 3062.61 L 4108.2 3063.02 L 4108 3063.63 L 4108 3064.65 L 4108.2 3065.27 L 4108.41 3065.68 L 4108.82 3066.09 L 4109.23 3066.29 L 4110.05 3066.29 L 4110.45 3066.09 L 4110.86 3065.68 L 4111.07 3065.27 L 4111.07 3064.65 M 4110.05 3064.65 L 4111.07 3064.65 M 4112.42 3062 L 4112.42 3066.29 M 4112.42 3062 L 4115.28 3066.29 M 4115.28 3062 L 4115.28 3066.29"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path346" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4098,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g348">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="MO"
+         d="M 4098 3062 L 4098 3066.29 M 4098 3062 L 4099.64 3066.29 M 4101.27 3062 L 4099.64 3066.29 M 4101.27 3062 L 4101.27 3066.29 M 4103.85 3062 L 4103.44 3062.2 L 4103.03 3062.61 L 4102.83 3063.02 L 4102.62 3063.63 L 4102.62 3064.65 L 4102.83 3065.27 L 4103.03 3065.68 L 4103.44 3066.09 L 4103.85 3066.29 L 4104.67 3066.29 L 4105.08 3066.09 L 4105.49 3065.68 L 4105.69 3065.27 L 4105.9 3064.65 L 4105.9 3063.63 L 4105.69 3063.02 L 4105.49 3062.61 L 4105.08 3062.2 L 4104.67 3062 L 4103.85 3062"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path350" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4119,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g352">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="VP"
+         d="M 4119 3062 L 4120.64 3066.29 M 4122.27 3062 L 4120.64 3066.29 M 4123.62 3062 L 4123.62 3066.29 M 4123.62 3062 L 4125.46 3062 L 4126.08 3062.2 L 4126.28 3062.4 L 4126.49 3062.81 L 4126.49 3063.43 L 4126.28 3063.84 L 4126.08 3064.04 L 4125.46 3064.25 L 4123.62 3064.25"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path354" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4069,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g356">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="RE"
+         d="M 4069 3061.9992 L 4069 3066.2892 M 4069 3061.9992 L 4070.84 3061.9992 L 4071.45 3062.1992 L 4071.66 3062.3992 L 4071.86 3062.8092 L 4071.86 3063.2192 L 4071.66 3063.6292 L 4071.45 3063.8392 L 4070.84 3064.0392 L 4069 3064.0392 M 4070.43 3064.0392 L 4071.86 3066.2892 M 4073.21 3061.9992 L 4073.21 3066.2892 M 4073.21 3061.9992 L 4075.87 3061.9992 M 4073.21 3064.0392 L 4074.85 3064.0392 M 4073.21 3066.2892 L 4075.87 3066.2892"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path358" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4119,3122.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g360">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="VIN"
+         d="M 4118.9983 3119.9992 L 4120.6383 3124.2892 M 4122.2683 3119.9992 L 4120.6383 3124.2892 M 4123.6183 3119.9992 L 4123.6183 3124.2892 M 4124.9683 3119.9992 L 4124.9683 3124.2892 M 4124.9683 3119.9992 L 4127.8383 3124.2892 M 4127.8383 3119.9992 L 4127.8383 3124.2892"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path362" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4090,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g364">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="MI"
+         d="M 4089.9989 3061.9992 L 4089.9989 3066.2892 M 4089.9989 3061.9992 L 4091.6389 3066.2892 M 4093.2689 3061.9992 L 4091.6389 3066.2892 M 4093.2689 3061.9992 L 4093.2689 3066.2892 M 4094.6189 3061.9992 L 4094.6189 3066.2892"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path366" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4079,3064.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g368">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="CL"
+         d="M 4082.0716 3063.0192 L 4081.8616 3062.6092 L 4081.4516 3062.1992 L 4081.0516 3061.9992 L 4080.2316 3061.9992 L 4079.8216 3062.1992 L 4079.4116 3062.6092 L 4079.2016 3063.0192 L 4079.0016 3063.6292 L 4079.0016 3064.6492 L 4079.2016 3065.2692 L 4079.4116 3065.6792 L 4079.8216 3066.0892 L 4080.2316 3066.2892 L 4081.0516 3066.2892 L 4081.4516 3066.0892 L 4081.8616 3065.6792 L 4082.0716 3065.2692 M 4083.4216 3061.9992 L 4083.4216 3066.2892 M 4083.4216 3066.2892 L 4085.8716 3066.2892"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path370" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4102,3122.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g372">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="GND"
+         d="M 4105.0698 3121.0199 L 4104.8598 3120.6099 L 4104.4498 3120.1999 L 4104.0498 3119.9999 L 4103.2298 3119.9999 L 4102.8198 3120.1999 L 4102.4098 3120.6099 L 4102.1998 3121.0199 L 4101.9998 3121.6299 L 4101.9998 3122.6499 L 4102.1998 3123.2699 L 4102.4098 3123.6799 L 4102.8198 3124.0899 L 4103.2298 3124.2899 L 4104.0498 3124.2899 L 4104.4498 3124.0899 L 4104.8598 3123.6799 L 4105.0698 3123.2699 L 4105.0698 3122.6499 M 4104.0498 3122.6499 L 4105.0698 3122.6499 M 4106.4198 3119.9999 L 4106.4198 3124.2899 M 4106.4198 3119.9999 L 4109.2798 3124.2899 M 4109.2798 3119.9999 L 4109.2798 3124.2899 M 4110.6298 3119.9999 L 4110.6298 3124.2899 M 4110.6298 3119.9999 L 4112.0598 3119.9999 L 4112.6798 3120.1999 L 4113.0898 3120.6099 L 4113.2898 3121.0199 L 4113.4998 3121.6299 L 4113.4998 3122.6499 L 4113.2898 3123.2699 L 4113.0898 3123.6799 L 4112.6798 3124.0899 L 4112.0598 3124.2899 L 4110.6298 3124.2899"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path374" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4065,3077.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g376">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="U1"
+         d="M 4065 3075 L 4065 3078.06 L 4065.2 3078.68 L 4065.61 3079.09 L 4066.23 3079.29 L 4066.64 3079.29 L 4067.25 3079.09 L 4067.66 3078.68 L 4067.86 3078.06 L 4067.86 3075 M 4069.21 3075.81 L 4069.62 3075.61 L 4070.24 3075 L 4070.24 3079.29"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path378" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4061,3108.46"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g380">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="R1"
+         d="M 4061 3106.0002 L 4061 3110.3002 M 4061 3106.0002 L 4062.84 3106.0002 L 4063.45 3106.2102 L 4063.66 3106.4102 L 4063.86 3106.8202 L 4063.86 3107.2302 L 4063.66 3107.6402 L 4063.45 3107.8402 L 4062.84 3108.0502 L 4061 3108.0502 M 4062.43 3108.0502 L 4063.86 3110.3002 M 4065.21 3106.8202 L 4065.62 3106.6102 L 4066.24 3106.0002 L 4066.24 3110.3002"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path382" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4101,3100.46"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g384">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="C1"
+         d="M 4104.07 3099.0201 L 4103.86 3098.6101 L 4103.45 3098.2101 L 4103.05 3098.0001 L 4102.23 3098.0001 L 4101.82 3098.2101 L 4101.41 3098.6101 L 4101.2 3099.0201 L 4101 3099.6401 L 4101 3100.6601 L 4101.2 3101.2701 L 4101.41 3101.6801 L 4101.82 3102.0901 L 4102.23 3102.3001 L 4103.05 3102.3001 L 4103.45 3102.0901 L 4103.86 3101.6801 L 4104.07 3101.2701 M 4105.42 3098.8201 L 4105.83 3098.6101 L 4106.44 3098.0001 L 4106.44 3102.3001"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path386" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4067.46,3098.28"
+       c_rotation="90"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g388">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="C2"
+         d="M 4066.02 3095.2101 L 4065.61 3095.4201 L 4065.21 3095.8301 L 4065 3096.2301 L 4065 3097.0501 L 4065.21 3097.4601 L 4065.61 3097.8701 L 4066.02 3098.0801 L 4066.64 3098.2801 L 4067.66 3098.2801 L 4068.27 3098.0801 L 4068.68 3097.8701 L 4069.09 3097.4601 L 4069.3 3097.0501 L 4069.3 3096.2301 L 4069.09 3095.8301 L 4068.68 3095.4201 L 4068.27 3095.2101 M 4066.02 3093.6601 L 4065.82 3093.6601 L 4065.41 3093.4501 L 4065.21 3093.25 L 4065 3092.8401 L 4065 3092.02 L 4065.21 3091.6101 L 4065.41 3091.4101 L 4065.82 3091.2001 L 4066.23 3091.2001 L 4066.64 3091.4101 L 4067.25 3091.8201 L 4069.3 3093.8601 L 4069.3 3091"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path390" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4101,3084.46"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g392">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="R3"
+         d="M 4101 3082 L 4101 3086.3 M 4101 3082 L 4102.84 3082 L 4103.45 3082.21 L 4103.66 3082.41 L 4103.86 3082.82 L 4103.86 3083.23 L 4103.66 3083.64 L 4103.45 3083.84 L 4102.84 3084.05 L 4101 3084.05 M 4102.43 3084.05 L 4103.86 3086.3 M 4105.62 3082 L 4107.87 3082 L 4106.65 3083.64 L 4107.26 3083.64 L 4107.67 3083.84 L 4107.87 3084.05 L 4108.08 3084.66 L 4108.08 3085.07 L 4107.87 3085.68 L 4107.46 3086.09 L 4106.85 3086.3 L 4106.24 3086.3 L 4105.62 3086.09 L 4105.42 3085.89 L 4105.21 3085.48"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path394" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4077,3122.46"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g396">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="C3"
+         d="M 4080.07 3121.02 L 4079.86 3120.61 L 4079.45 3120.21 L 4079.05 3120 L 4078.23 3120 L 4077.82 3120.21 L 4077.41 3120.61 L 4077.2 3121.02 L 4077 3121.64 L 4077 3122.66 L 4077.2 3123.27 L 4077.41 3123.68 L 4077.82 3124.09 L 4078.23 3124.3 L 4079.05 3124.3 L 4079.45 3124.09 L 4079.86 3123.68 L 4080.07 3123.27 M 4081.83 3120 L 4084.08 3120 L 4082.85 3121.64 L 4083.46 3121.64 L 4083.87 3121.84 L 4084.08 3122.05 L 4084.28 3122.66 L 4084.28 3123.07 L 4084.08 3123.68 L 4083.67 3124.09 L 4083.05 3124.3 L 4082.44 3124.3 L 4081.83 3124.09 L 4081.62 3123.89 L 4081.42 3123.48"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path398" />
+    </g>
+    <g
+       c_partid="part_pcbtext"
+       c_origin="4137,3072.45"
+       c_rotation="0"
+       c_mirror=""
+       layerid="3"
+       c_shapetype="group"
+       id="g400">
+      <path
+         c_fontSize="4.5"
+         c_fontFamily=""
+         c_text="U3"
+         d="M 4137 3069.9999 L 4137 3073.07 L 4137.2 3073.68 L 4137.61 3074.09 L 4138.23 3074.3 L 4138.64 3074.3 L 4139.25 3074.09 L 4139.66 3073.68 L 4139.86 3073.07 L 4139.86 3069.9999 M 4141.62 3069.9999 L 4143.87 3069.9999 L 4142.65 3071.64 L 4143.26 3071.64 L 4143.67 3071.84 L 4143.87 3072.05 L 4144.08 3072.66 L 4144.08 3073.07 L 4143.87 3073.68 L 4143.46 3074.09 L 4142.85 3074.3 L 4142.24 3074.3 L 4141.62 3074.09 L 4141.42 3073.89 L 4141.21 3073.48"
+         fill="none"
+         stroke-width="0.7"
+         c_note="note_pre"
+         id="path402" />
+    </g>
+    <circle
+       cx="4074.9"
+       cy="3098.9"
+       r="1"
+       stroke-width="1"
+       fill="none"
+       layerid="3"
+       c_shapetype="line"
+       id="circle404" />
+    <g
+       layerid="3"
+       c_partid="part_svg"
+       c_shapetype="group"
+       id="g406">
+      <path
+         d="M 4118 3099 C 4117.7 3099.4 4116.9 3103.1 4116.9 3103.2 C 4116.9 3103.2 4117.1 3103.2 4117.2 3103.2 L 4117.5 3103.2 L 4118.1 3101.2 C 4118.4 3100 4118.6 3099.1 4118.6 3099 C 4118.5 3098.9 4118 3098.9 4118 3099 M 4111.8 3100 C 4111.7 3100.1 4111.5 3100.1 4111.5 3100.1 C 4111.5 3100.1 4112.2 3100.9 4112.9 3101.8 C 4114.4 3103.5 4114.5 3103.6 4115 3103.3 C 4115.1 3103.2 4114.3 3102.3 4112.3 3100.1 C 4112.2 3099.9 4112.1 3099.9 4111.8 3100 M 4121.5 3102 C 4119.3 3103.8 4119.2 3103.9 4119.4 3104 C 4119.8 3104.2 4119.6 3104.3 4121.5 3102.8 C 4122.4 3102.1 4123.5 3101.3 4123.9 3101 L 4124.7 3100.5 L 4124.3 3100.3 L 4124 3100.2 L 4121.5 3102 M 4119 3102 C 4118.5 3102.6 4118.1 3103.1 4118.1 3103.1 C 4118.5 3103.5 4118.9 3103.3 4119.6 3102.2 C 4120.4 3101.2 4120.5 3101.1 4120.1 3101 C 4119.9 3100.9 4119.6 3101.1 4119 3102 M 4115.2 3101.2 L 4115 3101.3 L 4115 3101.9 C 4115.1 3102.8 4115.2 3102.9 4115.4 3102.8 C 4115.4 3102.8 4115.6 3102.8 4115.7 3102.8 C 4115.8 3102.8 4115.8 3102.7 4115.8 3102 C 4115.7 3101.2 4115.7 3101.2 4115.2 3101.2 M 4107.9 3101.5 L 4107.7 3101.7 L 4110.4 3103.4 C 4113.1 3105 4113.6 3105.3 4113.5 3104.7 C 4113.5 3104.3 4108.3 3101.4 4107.9 3101.5 M 4123.1 3103.5 C 4121.1 3104.3 4121.1 3104.3 4121.2 3104.5 L 4121.4 3104.7 L 4123.3 3104 C 4125.9 3103 4125.7 3103.1 4125.5 3102.9 C 4125.3 3102.6 4125.3 3102.6 4123.1 3103.5 M 4116 3103.6 C 4115.6 3103.7 4115.4 3104 4114.1 3106.4 L 4112.7 3109 L 4112.3 3113.5 C 4111.9 3118.8 4111.8 3118.3 4112.9 3118.7 L 4113.8 3118.9 L 4115.3 3118.8 C 4116.7 3118.6 4119.4 3117.7 4119.5 3117.3 C 4119.6 3117.3 4119.8 3115.2 4119.8 3112.6 C 4119.9 3110.1 4120 3107.4 4120.1 3106.8 L 4120.1 3105.5 L 4118.2 3104.5 C 4116.3 3103.5 4116.3 3103.5 4116 3103.6 M 4118.1 3105.1 C 4118.6 3105.4 4119.2 3105.7 4119.2 3105.7 C 4119.2 3105.9 4118 3107.5 4117.9 3107.4 C 4117.9 3107.3 4117.5 3106.6 4117.3 3105.8 C 4117 3105.1 4116.7 3104.4 4116.7 3104.5 C 4116.9 3104.5 4117.4 3104.8 4118.1 3105.1 M 4122.8 3104.6 C 4122.7 3104.7 4122.1 3104.8 4121.6 3104.9 C 4120.9 3105.1 4120.4 3105.6 4121.1 3105.6 C 4121.4 3105.5 4123.2 3105.1 4123.3 3105 C 4123.5 3104.9 4123.1 3104.6 4122.8 3104.6 M 4110.8 3104.8 C 4110.5 3105 4110.7 3105.1 4111.9 3105.6 L 4113.2 3106.1 L 4113.3 3105.9 C 4113.6 3105.6 4111.2 3104.5 4110.8 3104.8 M 4106.7 3105.2 C 4106.5 3105.6 4112.3 3107.3 4112.5 3106.9 C 4112.7 3106.7 4112.8 3106.7 4109.6 3105.8 C 4106.9 3105.1 4106.8 3105 4106.7 3105.2 M 4116.9 3106.8 L 4117.4 3108.3 L 4116.9 3113.2 C 4116.5 3115.9 4116.2 3118.1 4116.1 3118.2 C 4115.8 3118.3 4114.3 3118.4 4114.3 3118.2 C 4114.3 3118 4116.2 3105.2 4116.2 3105.2 C 4116.2 3105.2 4116.5 3105.9 4116.9 3106.8 M 4121.9 3106 C 4121.9 3106.3 4121.8 3106.3 4124.9 3106.5 C 4126.7 3106.6 4126.7 3106.6 4126.7 3106.3 C 4126.8 3106.2 4126.7 3106.1 4124.7 3106 C 4121.9 3105.8 4121.9 3105.8 4121.9 3106 M 4114.4 3112.1 C 4113.4 3118.7 4113.5 3118.3 4113.1 3118.1 L 4112.7 3118 L 4113.1 3113.6 L 4113.4 3109.2 L 4114.3 3107.5 C 4114.8 3106.6 4115.2 3105.9 4115.3 3106 C 4115.3 3106 4114.8 3108.8 4114.4 3112.1 M 4119.1 3111.4 C 4119 3113.8 4118.9 3116.1 4118.9 3116.5 L 4118.7 3117.2 L 4118 3117.5 C 4116.9 3118 4117 3118.5 4117.6 3113.1 L 4118.2 3108.3 L 4118.7 3107.6 C 4119 3107.2 4119.2 3106.9 4119.3 3106.9 C 4119.3 3106.9 4119.2 3108.9 4119.1 3111.4"
+         stroke="none"
+         id="path408" />
+    </g>
+  </g>
+</svg>
