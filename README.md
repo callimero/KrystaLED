@@ -7,6 +7,8 @@
 
 Light decoration object for crystals and glas
 
+## Easy EDA Schematics and PCB
+
 (new version wit 9V battery supply)
 https://easyeda.com/carsten.wartmann/KrystaLED_V2-482deda29a354482b808f5eb867bdf80
 
