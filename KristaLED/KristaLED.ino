@@ -12,7 +12,7 @@
 // Define the array of leds
 CRGB led[1];
 
-const int buttonPin = 2;
+const int buttonPin = 3;
 
 int state = 0;
 const int states = 1;
@@ -24,9 +24,9 @@ void setup()
   pinMode(buttonPin, INPUT_PULLUP);
   FastLED.addLeds<WS2812B, DATA_PIN, GRB>(led, 1);
 
-  FastLED.setBrightness(255);
+  FastLED.setBrightness(150);
   led[0] = CRGB::Black;
-  FastLED.show();
+  FastLED.show();  
 }
 
 
