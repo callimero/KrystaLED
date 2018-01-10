@@ -9,6 +9,9 @@ Light decoration object for crystals and glas
 
 ## Easy EDA Schematics and PCB
 
+(new version wit 9V battery supply and Low Drop regulator)
+https://easyeda.com/carsten.wartmann/KrystaLED_V2_copy-2f39ba448dfb4ed9bb2d81412cc37d19
+
 (new version wit 9V battery supply)
 https://easyeda.com/carsten.wartmann/KrystaLED_V2-482deda29a354482b808f5eb867bdf80
 
