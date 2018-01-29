@@ -1,5 +1,5 @@
 // KrystaLED stubb source, very rough for my prototype
-// Pins does not match the PCB!
+//
 
 // Needs fastled library
 #include "FastLED.h"
@@ -34,7 +34,7 @@ void setup()
 
   FastLED.addLeds<WS2812B, DATA_PIN, GRB>(led, 1);
 
-  FastLED.setBrightness(250);
+  FastLED.setBrightness(50);
   led[0] = CRGB::Black;
   FastLED.show();
   delay(100);
@@ -87,7 +87,7 @@ void rainbow()
   {
     led[0] = CHSV(h, 255, 255);
     FastLED.show();
-    if (mydelay(150)) return;
+    if (mydelay(15)) return;
   }
 }
 
